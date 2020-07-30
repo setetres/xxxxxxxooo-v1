@@ -7,7 +7,7 @@
             <div class="music__cover">
                 <img src="/images/moshaxe.png" alt="MOSHAXÉ Single Cover">
                 <small>
-                    MOSHAXÉ (Single), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarentine.
+                    MOSHAXÉ (Single), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
                 </small>
             </div>
             <div class="music__info">
@@ -36,7 +36,7 @@
             <div class="music__cover">
                 <img src="/images/triceracough.png" alt="TRICERACOUGH Single Cover">
                 <small>
-                    TRICERACOUGH (Single), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarentine.
+                    TRICERACOUGH (Single), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
                 </small>
             </div>
             <div class="music__info">
@@ -65,7 +65,7 @@
             <div class="music__cover">
                 <img src="/images/fein.png" alt="FEIN EP Cover">
                 <small>
-                    FEIN (EP), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarentine.
+                    FEIN (EP), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
                 </small>
             </div>
             <div class="music__info">
