@@ -6,13 +6,11 @@
         <p v-else>
             An error occurred
         </p>
-        <p>
-            <small>
-                <nuxt-link to="/" class="link">
-                    Go back
-                </nuxt-link>
-            </small>
-        </p>
+        <small>
+            <nuxt-link to="/" class="link">
+                Go back
+            </nuxt-link>
+        </small>
     </section>
 </template>
 <script>
