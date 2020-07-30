@@ -352,13 +352,10 @@ small {
             line-height: 1;
         }
 
-        > p {
-            grid-column: span 5;
-            text-align: center;
-        }
-
+        > p,
         > small {
             grid-column: span 5;
+            text-align: center;
         }
     }
 }

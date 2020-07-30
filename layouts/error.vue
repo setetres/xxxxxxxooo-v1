@@ -1,18 +1,18 @@
 <template>
     <section class="application__content">
-        <div class="vinyl">
-            <p v-if="error.statusCode === 404">
-                F IN CHAT — Page not found
-            </p>
-            <p v-else>
-                An error occurred
-            </p>
+        <p v-if="error.statusCode === 404">
+            Page not found
+        </p>
+        <p v-else>
+            An error occurred
+        </p>
+        <p>
             <small>
                 <nuxt-link to="/" class="link">
                     Go back
                 </nuxt-link>
             </small>
-        </div>
+        </p>
     </section>
 </template>
 <script>
