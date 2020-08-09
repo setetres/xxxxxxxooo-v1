@@ -93,8 +93,8 @@
 html {
     background-color: var(--color-background);
     box-sizing: border-box;
-    -moz-osx-font-smoothing: none;
-    -webkit-font-smoothing: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     height: 100%;
     image-rendering: pixelated;
     overflow-x: hidden;
@@ -233,7 +233,7 @@ small {
         position: relative;
 
         a {
-            display: flex;
+            display: block;
 
             &:focus {
                 outline: 2px solid var(--color-primary);
@@ -436,6 +436,7 @@ small {
         display: flex;
         flex-shrink: 0;
         height: var(--font-size);
+        image-rendering: pixelated;
         line-height: var(--font-size);
         pointer-events: all;
         position: absolute;
