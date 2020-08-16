@@ -1,5 +1,142 @@
 <template>
     <section class="application__content">
+        <p>
+            <strong class="application__content-title">
+                VINGT-VINGT
+            </strong>
+            <br>Vinyl Limited Edition
+        </p>
+        <p>
+            <img src="/images/vingt-vingt-packshot.jpg" alt="VINGT-VINGT Packshot">
+        </p>
+        <div class="embed">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/zfEtdrSOpNs" frameborder="0" allowfullscreen />
+        </div>
+        <div class="music">
+            <div class="music__cover">
+                <img src="/images/vingt-vingt.png" alt="VINGT-VINGT Album Cover">
+                <div>
+                    <small>
+                        VINGT-VINGT (ALBUM), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarentine.
+                    </small>
+                    <small>
+                        Limited edition: prints at Aster Graf, vinyl at Vinyl-Lab and embroideries at Borda Laser.
+                    </small>
+                </div>
+                <div>
+                    <p>
+                        VINYL 12''
+                    </p>
+                    <small>
+                        Lathe Cut with soft cover
+                    </small>
+                    <p>
+                        POSTER
+                    </p>
+                    <small>
+                        Size A1 with tube
+                    </small>
+                    <p>
+                        POSTCARDS
+                    </p>
+                    <small>
+                        Size A6
+                    </small>
+                    <p>
+                        PATCHES
+                    </p>
+                    <small>
+                        Embroidered
+                    </small>
+                    <p>
+                        TOTE BAG
+                    </p>
+                    <small>
+                        Embroidered. 100% cotton
+                    </small>
+                    <p>
+                        STICKERS
+                    </p>
+                    <small>
+                        Size A4
+                    </small>
+                    <p>
+                        DISKETTES
+                    </p>
+                    <small>
+                        Digital version to share with friends
+                    </small>
+                </div>
+            </div>
+            <div class="music__info">
+                <div class="music__track">
+                    <div>
+                        <small>1.</small>
+                        <small>2:38</small>
+                    </div>
+                    <p>
+                        QUATRE-VINGT-DIX-NEUF
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>2.</small>
+                        <small>2:19</small>
+                    </div>
+                    <p>
+                        COWEED-19
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>3.</small>
+                        <small>2:34</small>
+                    </div>
+                    <p>
+                        XD
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>4.</small>
+                        <small>2:45</small>
+                    </div>
+                    <p>
+                        BANJO
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>5.</small>
+                        <small>3:34</small>
+                    </div>
+                    <p>
+                        TRICERACOUGH
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>6.</small>
+                        <small>2:19</small>
+                    </div>
+                    <p>
+                        MOSHAXÉ
+                    </p>
+                </div>
+                <div class="music__track">
+                    <div>
+                        <small>7. HIDDEN TRACK</small>
+                        <small>3:08</small>
+                    </div>
+                    <p>
+                        DISPLAYNONE
+                    </p>
+                </div>
+                <small>
+                    <a href="https://bit.ly/VINGTVINGTFORINSTAGRAM" class="link" target="_blank" rel="noopener">Also: Instagram Filter</a>
+                </small>
+            </div>
+        </div>
         <div class="embed">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/Cv9DGU4jOQ8" frameborder="0" allowfullscreen />
         </div>

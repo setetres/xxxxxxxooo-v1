@@ -178,7 +178,7 @@ small {
         gap: var(--gutter-half);
         grid-column: span 5;
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: min-content auto;
+        grid-template-rows: min-content min-content auto;
 
         @media (min-width: 1200px) {
             grid-column: span 2;
