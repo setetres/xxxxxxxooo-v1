@@ -135,7 +135,7 @@
                 <small>
                     <a href="https://music.apple.com/br/album/vingt-vingt/1525239686" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
                     <a href="https://deezer.com/br/album/163383462" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
-                    <a href="https://open.spotify.com/album/6NgLlnVG9HTJA8U0TcRj4Z?si=4zE-TxznRtiahWpEXTJSbQ" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
+                    <a href="https://open.spotify.com/album/6NgLlnVG9HTJA8U0TcRj4Z" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
                     <a href="https://tidal.com/browse/album/150081917" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
                     <a href="https://youtube.com/watch?v=zfEtdrSOpNs" class="link" target="_blank" rel="noopener">Listen on YouTube</a><br><br>
                     <a href="https://instagram.com/ar/965617350568430" class="link" target="_blank" rel="noopener">Also: Instagram Filter</a>
