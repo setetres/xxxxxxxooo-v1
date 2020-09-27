@@ -2,7 +2,7 @@ const autoprefixer = require('autoprefixer')
 const StyleLintPlugin = require('stylelint-webpack-plugin')
 
 export default {
-    mode: 'spa',
+    ssr: false,
     head: {
         htmlAttrs: {
             lang: 'en',
