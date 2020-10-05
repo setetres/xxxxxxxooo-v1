@@ -2,7 +2,35 @@
     <section class="application__content">
         <div class="music">
             <div class="embed">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/82A_sMmKGGI" frameborder="0" allowfullscreen />
+                <iframe width="560" height="315" src="https://youtube.com/embed/Bv3jI_nFQEw" frameborder="0" allowfullscreen />
+            </div>
+            <div class="music__cover">
+                <small>
+                    VAZIØ (Single/Short Film), by XXXXXXXOOO. Recorded in FL Studio 20 during the COVID-19 quarantine.
+                </small>
+            </div>
+            <div class="music__info">
+                <div class="music__track">
+                    <div>
+                        <small>1.</small>
+                        <small>7:03</small>
+                    </div>
+                    <p>
+                        VAZIØ
+                    </p>
+                </div>
+                <small>
+                    <a href="https://music.apple.com/br/album/vazi%C3%B8-single/1534502526" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
+                    <a href="https://deezer.com/br/album/177544912" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
+                    <a href="https://open.spotify.com/album/2ooPMxZyHDTq8ltMm6UdqB" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
+                    <a href="https://tidal.com/browse/album/157442782" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
+                    <a href="https://youtube.com/watch?v=Bv3jI_nFQEw" class="link" target="_blank" rel="noopener">Listen on YouTube</a>
+                </small>
+            </div>
+        </div>
+        <div class="music">
+            <div class="embed">
+                <iframe width="560" height="315" src="https://youtube.com/embed/82A_sMmKGGI" frameborder="0" allowfullscreen />
             </div>
         </div>
         <p>
@@ -15,7 +43,7 @@
             <img src="/images/vingt-vingt-packshot.jpg" alt="VINGT-VINGT Packshot">
         </p>
         <div class="embed">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/zfEtdrSOpNs" frameborder="0" allowfullscreen />
+            <iframe width="560" height="315" src="https://youtube.com/embed/zfEtdrSOpNs" frameborder="0" allowfullscreen />
         </div>
         <div class="music">
             <div class="music__cover">
@@ -148,7 +176,7 @@
             </div>
         </div>
         <div class="embed">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/Cv9DGU4jOQ8" frameborder="0" allowfullscreen />
+            <iframe width="560" height="315" src="https://youtube.com/embed/Cv9DGU4jOQ8" frameborder="0" allowfullscreen />
         </div>
         <div class="music">
             <div class="music__cover">
@@ -168,16 +196,16 @@
                     </p>
                 </div>
                 <small>
-                    <a href="https://bit.ly/MOSHAXEAPPLEMUSIC" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
-                    <a href="https://bit.ly/MOSHAXEDEEZER" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
-                    <a href="https://bit.ly/MOSHAXEOUTNOW" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
-                    <a href="https://bit.ly/MOSHAXETIDAL" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
-                    <a href="https://bit.ly/MOSHAXEYOUTUBE" class="link" target="_blank" rel="noopener">Listen on YouTube</a>
+                    <a href="https://music.apple.com/br/album/moshax%C3%A9-single/1517796928" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
+                    <a href="https://deezer.com/br/album/153832442" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
+                    <a href="https://open.spotify.com/album/252g8ZxQ4NWe0SdrW40qoh" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
+                    <a href="https://tidal.com/browse/album/144626772" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
+                    <a href="https://youtube.com/watch?v=Cv9DGU4jOQ8" class="link" target="_blank" rel="noopener">Listen on YouTube</a>
                 </small>
             </div>
         </div>
         <div class="embed">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/CKqnuZBjsZY" frameborder="0" allowfullscreen />
+            <iframe width="560" height="315" src="https://youtube.com/embed/CKqnuZBjsZY" frameborder="0" allowfullscreen />
         </div>
         <div class="music">
             <div class="music__cover">
@@ -197,16 +225,16 @@
                     </p>
                 </div>
                 <small>
-                    <a href="https://bit.ly/TRICERACOUGHAPPLEMUSIC" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
-                    <a href="https://bit.ly/TRICERACOUGHDEEZER" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
-                    <a href="https://bit.ly/TRICERACOUGHOUTNOW" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
-                    <a href="https://bit.ly/TRICERACOUGHTIDAL" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
-                    <a href="https://bit.ly/TRICERACOUGHYOUTUBE" class="link" target="_blank" rel="noopener">Listen on YouTube</a>
+                    <a href="https://music.apple.com/br/album/triceracough-single/1514705104" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
+                    <a href="https://deezer.com/br/album/149920012" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
+                    <a href="https://open.spotify.com/album/1o0IoOxGycM6IfD7EcYxZ9" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
+                    <a href="https://tidal.com/browse/album/142432861" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
+                    <a href="https://youtube.com/watch?v=CKqnuZBjsZY" class="link" target="_blank" rel="noopener">Listen on YouTube</a>
                 </small>
             </div>
         </div>
         <div class="embed">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLWjcKkvgds-9TuK2urpOPMtvwxTU23zmO" frameborder="0" allowfullscreen />
+            <iframe width="560" height="315" src="https://youtube.com/embed/videoseries?list=PLWjcKkvgds-9TuK2urpOPMtvwxTU23zmO" frameborder="0" allowfullscreen />
         </div>
         <div class="music">
             <div class="music__cover">
@@ -253,12 +281,12 @@
                     </p>
                 </div>
                 <small>
-                    <a href="https://bit.ly/FEINAPPLEMUSIC" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
-                    <a href="https://bit.ly/FEINDEEZER" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
-                    <a href="https://bit.ly/FEINOUTNOW" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
-                    <a href="https://bit.ly/FEINTIDAL" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
-                    <a href="https://bit.ly/FEINYOUTUBE" class="link" target="_blank" rel="noopener">Listen on YouTube</a><br><br>
-                    <a href="https://bit.ly/FEINFORINSTAGRAM" class="link" target="_blank" rel="noopener">Also: Instagram Filter</a>
+                    <a href="https://music.apple.com/br/album/fein-ep/1513768644" class="link" target="_blank" rel="noopener">Listen on  Music</a><br>
+                    <a href="https://deezer.com/br/album/148877002" class="link" target="_blank" rel="noopener">Listen on Deezer</a><br>
+                    <a href="https://open.spotify.com/album/0nN10kpHYXrOmIKOr36Ggx" class="link" target="_blank" rel="noopener">Listen on Spotify</a><br>
+                    <a href="https://tidal.com/browse/album/141839510" class="link" target="_blank" rel="noopener">Listen on Tidal</a><br>
+                    <a href="https://youtube.com/watch?v=JtOb7rY6024&list=PLWjcKkvgds-9TuK2urpOPMtvwxTU23zmO" class="link" target="_blank" rel="noopener">Listen on YouTube</a><br><br>
+                    <a href="https://instagram.com/ar/929622894133566/" class="link" target="_blank" rel="noopener">Also: Instagram Filter</a>
                 </small>
             </div>
         </div>
@@ -275,14 +303,14 @@
         components: {
         },
 
-        mounted() {
-            this.$nextTick(() => {
-            })
-        },
-
         beforeRouteLeave(to, from, next) {
             this.$nextTick(() => {
                 next()
+            })
+        },
+
+        mounted() {
+            this.$nextTick(() => {
             })
         }
     }

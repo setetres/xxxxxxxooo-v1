@@ -15,6 +15,12 @@
 </template>
 <script>
     export default {
+
+        beforeRouteLeave(to, from, next) {
+            setTimeout(function() {
+                next()
+            }, 100)
+        },
         props: {
             error: {
                 type: Object,
@@ -22,21 +28,15 @@
             }
         },
 
-        mounted() {
-            this.$nextTick(() => {
-            })
-        },
-
-        beforeRouteLeave(to, from, next) {
-            setTimeout(function() {
-                next()
-            }, 100)
-        },
-
         head() {
             return {
                 title: 'XXXXXXXOOO — Error'
             }
+        },
+
+        mounted() {
+            this.$nextTick(() => {
+            })
         }
     }
 </script>
