@@ -298,20 +298,3 @@
         </footer>
     </section>
 </template>
-<script>
-    export default {
-        components: {
-        },
-
-        beforeRouteLeave(to, from, next) {
-            this.$nextTick(() => {
-                next()
-            })
-        },
-
-        mounted() {
-            this.$nextTick(() => {
-            })
-        }
-    }
-</script>
