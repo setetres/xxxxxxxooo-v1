@@ -1,7 +1,6 @@
 | [![xxxxxxxooo-v1](https://setetres.s3.amazonaws.com/setetres.st/img/share-xxxxxxxooo-v1.png?v=1&raw=true)](http://v1.xxxxxxx.ooo) |
 | --------------------------------------------------------------------------------------------------------------------------------- |
 
-
 [![Github License](https://img.shields.io/github/license/setetres/xxxxxxxooo-v1.svg?v=10)](https://github.com/setetres/xxxxxxxooo-v1/blob/master/LICENSE)
 
 ## License
