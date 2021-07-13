@@ -16,13 +16,13 @@ export default {
             { hid: 'og:type', property: 'og:type', content: 'website' },
             { hid: 'og:title', property: 'og:title', content: 'XXXXXXXOOO — v1' },
             { hid: 'og:description', property: 'og:description', content: 'A knife-grinder music endeavor.' },
-            { hid: 'og:image', property: 'og:image', content: 'https://v1.xxxxxxx.ooo/images/share.png' },
+            { hid: 'og:image', property: 'og:image', content: 'https://v1.xxxxxxx.ooo/images/share-xxxxxxxooo-v1.png' },
             { hid: 'og:url', property: 'og:url', content: 'https://v1.xxxxxxx.ooo' },
 
             { hid: 'twitter:card', name: 'twitter:card', content: 'summary_large_image' },
             { hid: 'twitter:title', name: 'twitter:title', content: 'XXXXXXXOOO — v1' },
             { hid: 'twitter:description', name: 'twitter:description', content: 'A knife-grinder music endeavor.' },
-            { hid: 'twitter:image', name: 'twitter:image', content: 'https://v1.xxxxxxx.ooo/images/share.png' }
+            { hid: 'twitter:image', name: 'twitter:image', content: 'https://v1.xxxxxxx.ooo/images/share-xxxxxxxooo-v1.png' }
         ],
         link: [
             { rel: 'canonical', href: 'https://v1.xxxxxxx.ooo' },
