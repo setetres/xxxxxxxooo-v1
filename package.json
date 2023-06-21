@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@nuxtjs/axios": "^5.12.2",
-        "nuxt": "^2.14.6"
+        "nuxt": "^3.4.3"
     },
     "devDependencies": {
         "autoprefixer": "^10.0.1",
